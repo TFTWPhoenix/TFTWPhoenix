@@ -6,20 +6,20 @@ I do stuff.
 As some of you may have noticed UltimixOS has had it's repository renamed to UltimixOS-OLD. The future of Ultimix is in development right now BUT is not public on GitHub yet! This new version will have many new features such as possibly a GUI 😉.
 
 ### Languages
-Java
+- Java
 
-C#
+- C#
 
-Node.JS
+- Node.JS
 
-JS
+- JS
 
-HTML+CSS
+- HTML+CSS
 
-C/C++
+- C/C++
 
-Assembly (sort of)
+- Assembly (sort of)
 
-Bash (sort of)
+- Bash (sort of)
 
-Lua
+- Lua
