@@ -23,3 +23,5 @@ As some of you may have noticed UltimixOS has had it's repository renamed to Ult
 - Bash (sort of)
 
 - Lua
+
+[![TFTWPhoenix's GitHub stats](https://github-readme-stats.vercel.app/api?username=TFTWPhoenix)](https://github.com/anuraghazra/github-readme-stats)
